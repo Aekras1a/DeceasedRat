@@ -1,6 +1,19 @@
 # DcRat
 
-Because I've heard more and more abuses of DcRat.I decided that i won't update this any more.The dev version will be also closed later.  
-  
-由于听说了越来越多的对DcRat的滥用，所以我决定不再更新这个项目，在开发中的新版本稍后也会关闭。
+Original developer - qwqdanchun
+All credit to the original coder and all his hard work, the repo was made archive after hearing abuse reports regarding his code.
 
+
+
+
+
+
+So.. we'll continue here.
+
+#ToDo
+- Encryption on downloading plugin module
+- Update shellcode stub code for compatability
+- Clean up static detections
+
+
+If ya want to help, feel free, fork or issue etc peace <3
